@@ -17,9 +17,9 @@ ________________________________________________________________________________
 
 **🔍 The Five Key Questions**
 
-1.	What is our overall profit trend compared to last year?
-2.	Which product categories and sub-categories generate the most profit, and which consistently lose money?
-3.	Why did profits spike in some months and drop sharply in others?
-4.	Which customer segments contribute the most to profit?
-5.	Why are some regions profitable while others generate losses despite strong sales?
+1.	Are we growing profitably year-over-year, or are rising sales masking margin erosion?
+2.	Which categories and sub-categories of product are strengthening our bottom line, and which are consistently dragging it down?
+3.	Why did we see sharp spikes or drops in profit during certain months — and what drove those changes?
+4.	Which customer segments deliver the healthiest profit margins, and are we investing in the right ones?
+5.	Why do some regions show strong sales but weak profits — what’s causing the gap?
 
