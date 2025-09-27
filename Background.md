@@ -13,7 +13,7 @@ But the original question was quite broad. After a discussion with you, we narro
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**🔍 The Five Key Questions for the COO**
+**🔍 The Five Key Questions**
 
 1.	What is our overall profit trend compared to last year?
 2.	Which product categories and sub-categories generate the most profit, and which consistently lose money?
