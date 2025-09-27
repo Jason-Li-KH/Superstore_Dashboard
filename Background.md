@@ -6,8 +6,8 @@ You, the COO of Superstore, asked me, a data analyst, to design a monitoring das
   “How is the business performing in terms of growth and profitability, and where are the biggest opportunities or risks?”
 
 To address this issue, I developed a dashboard that delivers:
-1.	Executive Performance Monitoring – At-a-glance KPIs on Orders, Sales, Profit, and Profit Margin, with year-over-year comparisons.
-2.	Exploratory Insights for Strategy – Drill-down views into Category, Segment, and Region performance, enabling leadership to identify drivers of growth, unprofitable areas, and operational inefficiencies.
+1.	**Executive Performance Monitoring** – At-a-glance KPIs on Orders, Sales, Profit, and Profit Margin, with year-over-year comparisons.
+2.	**Exploratory Insights for Strategy** – Drill-down views into Category, Segment, and Region performance, enabling leadership to identify drivers of growth, unprofitable areas, and operational inefficiencies.
 
 But the original question was quite broad. After a discussion with you, we narrowed the scope into five major questions that this dashboard helps answer. 
 
