@@ -1,1 +1,4 @@
-# Superstore_Dashboard
+# Superstore Dashboard
+
+US Superstore Dashboard
+
