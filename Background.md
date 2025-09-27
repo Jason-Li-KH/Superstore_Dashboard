@@ -1,7 +1,7 @@
 **US Superstore Dashboard**
 **📌 Background & Objectives**
 
-You, the COO of Superstore, asked me to design a monitoring dashboard to answer one critical question:
+You, the COO of Superstore, asked me, a data analyst, to design a monitoring dashboard to answer one critical question:
 
   “How is the business performing in terms of growth and profitability, and where are the biggest opportunities or risks?”
 
