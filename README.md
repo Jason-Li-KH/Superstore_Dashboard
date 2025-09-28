@@ -1,12 +1,15 @@
 # **US Superstore Dashboard**
 ![Animation](https://github.com/user-attachments/assets/51ea47b8-6f8b-4952-9dd0-b2abe3bdafe0)
 -------
+<br>
 
 **📌 Background**
 
 You, the COO of Superstore, wanted to optimize profitability while reducing losses across the business. You asked me, a data analyst, to design a monitoring dashboard to answer one critical question:
 
   “How is the business performing in terms of growth and profitability, and where are the biggest opportunities or risks?”
+
+<br>
 
 **🎯 Objective**
 
@@ -16,6 +19,8 @@ To address this issue, I developed a dashboard that delivers:
 
 But the original question was quite broad. After a discussion with you, we narrowed the scope into five major questions that this dashboard helps answer.
 
+<br>
+
 **🔍 The Five Key Questions**
 
 1.	How is profit changing over time, and are we sustaining growth year over year?
@@ -23,6 +28,8 @@ But the original question was quite broad. After a discussion with you, we narro
 3.	
 4.  Why do we see spikes or drops in profit during certain months or years?
 5.  Where should we focus to capture the biggest opportunities or fix the riskiest losses?
+
+<br>
 
 # **Key Insights and Recommendation**
 ## **❓ Question 1: How is profit changing over time, and are we sustaining growth year over year?**
@@ -73,6 +80,8 @@ But the original question was quite broad. After a discussion with you, we narro
 - Dive deeper into the underlying factor of fluctuations.
 - Prioritize stabilizing volatility by tightening controls on high-risk products, regions, and segments to sustain consistent profit growth.
 
+<br>
+
 ## **❓ Question 2: Which product, customer segement, and region generate the most profit, and which consistently lose money?**
 
 <!-- Group: Category, Sub-Category, and Product -->
@@ -117,7 +126,6 @@ But the original question was quite broad. After a discussion with you, we narro
     </td>
   </tr>
 </table>
-
 
 **📊 Key Insights**
 - **Technology Leads Profits**: Technology products drive the most profit, led by Copiers and Phones, while Furniture consistently underperforms, with Tables showing significant losses.
