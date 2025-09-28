@@ -133,7 +133,7 @@ But the original question was quite broad. After a discussion with you, we narro
 - **Profit Concentrates in West and East**: The West and East regions generate the majority of profits, whereas the South and Central regions deliver much weaker returns.
 
 **✅ Recommendation**
-- **Capitalize on High Performer**: Focus on maximizing profitability by doubling down on high-performing categories (Technology, especially Copiers/Phones)
+- **Capitalize on High Performer**: Focus on maximizing profitability by doubling down on high-performing categories (Technology, especially Copiers/Phones).
 - **Reassess Underperformer:** while addressing underperforming areas like Furniture (Tables), lagging customer segments, and weaker regions (South, Central).
 
 
