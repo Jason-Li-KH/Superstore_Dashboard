@@ -3,7 +3,7 @@
 -------
 <br>
 
-**📌 Background**
+## **📌 Background**
 
 You, the COO of Superstore, wanted to optimize profitability while reducing losses across the business. You asked me, a data analyst, to design a monitoring dashboard to answer one critical question:
 
@@ -11,7 +11,7 @@ You, the COO of Superstore, wanted to optimize profitability while reducing loss
 
 <br>
 
-**🎯 Objective**
+## **🎯 Objective**
 
 To address this issue, I developed a dashboard that delivers:
 1.	**Executive Performance Monitoring** – At-a-glance KPIs on Orders, Sales, Profit, and Profit Margin, with year-over-year comparisons.
@@ -21,7 +21,7 @@ But the original question was quite broad. After a discussion with you, we narro
 
 <br>
 
-**🔍 The Five Key Questions**
+## **🔍 The Five Key Questions**
 
 1.	How is profit changing over time, and are we sustaining growth year over year?
 2.	Which product, customer segement, and region generate the most profit, and which consistently lose money?
@@ -32,7 +32,7 @@ But the original question was quite broad. After a discussion with you, we narro
 <br>
 
 # **Key Insights and Recommendation**
-## **❓ Question 1: How is profit changing over time, and are we sustaining growth year over year?**
+### **❓ Question 1: How is profit changing over time, and are we sustaining growth year over year?**
 
 <table>
   <tr>
@@ -82,7 +82,7 @@ But the original question was quite broad. After a discussion with you, we narro
 
 <br>
 
-## **❓ Question 2: Which product, customer segement, and region generate the most profit, and which consistently lose money?**
+### **❓ Question 2: Which product, customer segement, and region generate the most profit, and which consistently lose money?**
 
 <!-- Group: Category, Sub-Category, and Product -->
 <table>
