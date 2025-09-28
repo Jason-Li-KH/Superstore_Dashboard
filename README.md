@@ -25,9 +25,8 @@ But the original question was quite broad. After a discussion with you, we narro
 
 1.	How is profit changing over time, and are we sustaining growth year over year?
 2.	Which product, customer segement, and region generate the most profit, and which consistently lose money?
-3.	
-4.  Why do we see spikes or drops in profit during certain months or years?
-5.  Where should we focus to capture the biggest opportunities or fix the riskiest losses?
+3.	Are discounts and pricing strategies helping us grow profitably, or are they driving margin erosion?
+4. 
 
 <br>
 
@@ -95,15 +94,8 @@ But the original question was quite broad. After a discussion with you, we narro
       <img width="430" alt="Sub-Category Chart" src="https://github.com/user-attachments/assets/9c43bda3-1a43-427c-94ab-37a3a59ec2fa" />
     </td>
   </tr>
-  <!-- Bottom row: Product chart spanning across -->
-  <tr>
     <td colspan="2" align="center">
-      <img width="865" alt="Product Chart" src="https://github.com/user-attachments/assets/8ba3ac63-a9a1-4a15-842a-98fa759bcb1b" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <sub><i>Figure 3. Profit by Category, Sub-Category, and Product</i></sub>
+      <sub><i>Figure 3. Profit by Category and Sub-Category</i></sub>
     </td>
   </tr>
 </table>
@@ -134,7 +126,7 @@ But the original question was quite broad. After a discussion with you, we narro
 
 **✅ Recommendation**
 - **Capitalize on High Performer**: Focus on maximizing profitability by doubling down on high-performing categories (Technology, especially Copiers/Phones).
-- **Reassess Underperformer:** while addressing underperforming areas like Furniture (Tables), lagging customer segments, and weaker regions (South, Central).
+- **Reassess Underperformer:** Reconsider the positioning and strategy of underperforming areas like Furniture (Tables), lagging customer segments, and weaker regions (South, Central).
 
 
 
