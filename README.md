@@ -1,4 +1,7 @@
 # **US Superstore Dashboard**
+![Animation](https://github.com/user-attachments/assets/51ea47b8-6f8b-4952-9dd0-b2abe3bdafe0)
+-------
+
 **📌 Background**
 
 You, the COO of Superstore, wanted to optimize profitability while reducing losses across the business. You asked me, a data analyst, to design a monitoring dashboard to answer one critical question:
