@@ -15,7 +15,7 @@
 -------
 <br>
 
-**📊 Key Insights**
+### **📊 Key Insights**
 - **Profit is growing but volatile** – Annual profit grew +12.7% YoY to $92.4K, yet monthly trends show sharp fluctuations, highlighting underlying instability.
 - **Technology drives profit** – Copiers and Phones are strong contributors, while Furniture consistently underperforms, dragging overall margin.
 - **Consumer segment leads, regions diverge** – Consumers deliver the strongest profit, with West/East regions contributing ~80% of total, while South and Central lag.
@@ -24,7 +24,7 @@
 
 <br>
 
-**✅ Recommendations**
+### **✅ Recommendations**
 - **Stabilize profit base** – Tighten monitoring of volatile months and apply guardrails on high-risk products/regions to smooth fluctuations.
 - **Double down on Technology winners** – Expand profitable categories (Copiers, Phones), supported by focused marketing and inventory investment.
 - **Address underperformers** – Reassess Furniture discounts and Central/South region strategy to stop consistent losses.
