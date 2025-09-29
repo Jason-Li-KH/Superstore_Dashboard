@@ -36,4 +36,4 @@
 
 **🔎 For more details**
 
-See the full dashboard analysis in , including breakdowns by category, sub-category, customer segment, region, and discount ROI performance.
+See the full dashboard analysis in [📄 Detail Business Case](US%20Superstore%20Business%20Case.md), including breakdowns by category, sub-category, customer segment, region, and discount ROI performance.
