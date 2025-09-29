@@ -10,6 +10,7 @@
 <b>**What it shows**:</b> Sales, Profit, Margin, Discount ROI  
 <b>Who it’s for:</b> Retail ops / sales leaders  
 <b>So what:</b> +12.7% YoY profit; cut loss-making Furniture discounts; scale high-ROI sub-categories  
+<b>Platform</b>: Tableau Public  
 <a href="https://public.tableau.com/shared/WJ74WDRSH?:display_count=n&:origin=viz_share_link">▶ Open live dashboard</a> · [Jump to insights](https://github.com/Jason-Li-KH/Superstore_Dashboard/blob/main/README.md#-key-insights) · [📄 Detail Business Case](US%20Superstore%20Business%20Case.md)
 
 
