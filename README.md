@@ -20,10 +20,10 @@ To see more, please check out the key insights and recommendation below!
 - [📊 Key KPIs](#-key-kpis)
 - [🔍 The Four Key Questions](#-the-four-key-questions)
 - [Key Insights and Recommendation](#key-insights-and-recommendation)
-  - [Q1. Profit Over Time](#q1-profit-over-time)
-  - [Q2. Profit by Product, Segment, and Region](#q2-profit-by-product-segment-and-region)
-  - [Q3. Discounts and ROI](#q3-discounts-and-roi)
-  - [Q4. Strategic Path Forward](#q4-strategic-path-forward)
+  - [Q1. Profit Over Time](#-question-1-how-is-profit-changing-over-time-and-are-we-sustaining-growth-year-over-year)
+  - [Q2. Profit by Product, Segment, and Region](#-question-2-which-product-customer-segement-and-region-generate-the-most-profit-and-which-consistently-lose-money)
+  - [Q3. Discounts and ROI](#-question-3-are-discounts-and-pricing-strategies-helping-us-grow-profitably-or-are-they-driving-margin-erosion)
+  - [Q4. Strategic Path Forward](#-question-4-given-these-insights-where-should-the-company-focus-its-resources-to-maximize-overall-profitability)
 
 
 <br>
@@ -63,8 +63,7 @@ The overall guiding question is narrowed down to four major questions:
 <br>
 
 # **Key Insights and Recommendation**
-### **❓ Question 1:**
-**How is profit changing over time, and are we sustaining growth year over year?**
+### **❓ Question 1: How is profit changing over time, and are we sustaining growth year over year?**
 
 <table>
   <tr>
