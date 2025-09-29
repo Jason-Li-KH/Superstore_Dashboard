@@ -1,4 +1,6 @@
 # **US Superstore Business Case**
+![Animation](https://github.com/user-attachments/assets/9e2d7d6d-1374-4db2-bcc9-6cea007058f9)
+
 
 ## 📑 Table of Contents
 - [📌 Background](#-background)
