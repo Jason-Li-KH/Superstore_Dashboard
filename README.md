@@ -1,5 +1,5 @@
 # **US Superstore Dashboard**
-![Animation](https://github.com/user-attachments/assets/51ea47b8-6f8b-4952-9dd0-b2abe3bdafe0)
+![Animation](https://github.com/user-attachments/assets/9e2d7d6d-1374-4db2-bcc9-6cea007058f9)
 -------
 <br>
 
