@@ -3,6 +3,8 @@
 
 Link to Dashboard: https://public.tableau.com/shared/WJ74WDRSH?:display_count=n&:origin=viz_share_link
 
+Link to Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
+
 -------
 <br>
 
