@@ -1,6 +1,6 @@
 
 # **US Superstore Dashboard  |  Tableau Public**
-![Animation](https://github.com/user-attachments/assets/9e2d7d6d-1374-4db2-bcc9-6cea007058f9)
+![Superstore Dashboard – executive KPIs and filters](https://github.com/user-attachments/assets/9e2d7d6d-1374-4db2-bcc9-6cea007058f9)
 <sup>This repository is a portfolio showcase. No reuse or redistribution. The main branch is locked.</sup>
 
 **What it shows:** Sales, Profit, Margin, Discount ROI  
@@ -26,3 +26,5 @@
 - **Scale ROI subs; cut traps:** Protect Labels/Paper/Envelopes; stop or restructure Furniture discounts.
 
 **🔎 More details:** See [📄 Detail Business Case](./US%20Superstore%20Business%20Case.md) for category, sub-category, segment, region, and discount-ROI breakdowns.
+
+**About:** Built by Jason Li (Tableau). [LinkedIn](www.linkedin.com/in/jason-li-6b1925209) · [Tableau Public](https://public.tableau.com/app/profile/jason.li5548/vizzes)
